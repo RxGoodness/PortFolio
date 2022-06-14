@@ -1,0 +1,11 @@
+.bg {
+  height: 500px;
+}
+
+.row .col-1 .p-tit {
+  font-size: 27px;
+}
+
+.col-4 .small {
+  font-size: 18px;
+}
